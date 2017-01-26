@@ -17,4 +17,11 @@ enum Allergen {
     public int getScore() {
         return score;
     }
+
+    boolean isAllergicTo( final int allergyScore )
+    {
+      //"score" is a bitmask. Learn more at "http://vipan.com/htdocs/bitwisehelp.html"
+      //This depends on the fact, that the score values are base 2!
+      return (allergyScore & score) == score;
+    }
 }
