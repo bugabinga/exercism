@@ -1,0 +1,1 @@
+c:\Users\okr\exercism\rust\target\rls\debug\libreverse_string-7f24e24e047c2c1c.rmeta: c:\Users\okr\exercism\rust\reverse-string\src\lib.rs c:\Users\okr\exercism\rust\reverse-string\tests\reverse-string.rs

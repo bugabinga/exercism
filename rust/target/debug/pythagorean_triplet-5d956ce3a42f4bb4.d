@@ -1,0 +1,1 @@
+C:\Users\okr\exercism\rust\target\debug\pythagorean_triplet-5d956ce3a42f4bb4.exe: C:\Users\okr\exercism\rust\pythagorean-triplet\src\lib.rs C:\Users\okr\exercism\rust\pythagorean-triplet\tests\pythagorean-triplet.rs
