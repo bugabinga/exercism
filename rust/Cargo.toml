@@ -1,0 +1,2 @@
+[workspace]
+members = ["hello-world", "gigasecond", "leap", "raindrops","reverse-string", "nth-prime", "bob", "beer-song", "pythagorean-triplet"]
